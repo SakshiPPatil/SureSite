@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@source "../../safelist.txt";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

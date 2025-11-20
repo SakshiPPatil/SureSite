@@ -1,0 +1,189 @@
+{
+  "/": {
+    "root": {
+      "props": {
+        "title": "heading1Puck + React Router 7 demo"
+      }
+    },
+    "content": [
+      {
+        "type": "GridBlock",
+        "props": {
+          "id": "GridBlock-4c9bdfb5-1729-4a08-a260-a985dcf8c3d7"
+        }
+      },
+      {
+        "type": "GridBlock",
+        "props": {
+          "id": "GridBlock-a3521df2-2685-42d1-a1f4-975ea01c8d4d"
+        }
+      },
+      {
+        "type": "GridBlock",
+        "props": {
+          "id": "GridBlock-9bb53761-ee65-499f-9a40-b24b29dda11b"
+        }
+      }
+    ],
+    "zones": {
+      "GridBlock-4c9bdfb5-1729-4a08-a260-a985dcf8c3d7:my-grid": [
+        {
+          "type": "CardBlock",
+          "props": {
+            "title": "Title",
+            "description": "This is a description...",
+            "padding": 12,
+            "variant": "shadow-md",
+            "bgColor": "inherit",
+            "id": "CardBlock-3acc91d7-751c-4ac7-bd54-92a2dacc958a"
+          }
+        },
+        {
+          "type": "CardBlock",
+          "props": {
+            "title": "Title",
+            "description": "This is a description...",
+            "padding": 12,
+            "variant": "shadow-md",
+            "bgColor": "red-300",
+            "id": "CardBlock-37ebf58b-a5eb-4b13-8b52-dcc0c8753414"
+          }
+        },
+        {
+          "type": "CardBlock",
+          "props": {
+            "title": "Title",
+            "description": "This is a description...",
+            "padding": 12,
+            "variant": "shadow-md",
+            "bgColor": "inherit",
+            "id": "CardBlock-0a36ed9d-8905-4b17-8dc2-02339dccb9eb"
+          }
+        },
+        {
+          "type": "CardBlock",
+          "props": {
+            "title": "Title",
+            "description": "This is a description...",
+            "padding": 12,
+            "variant": "shadow-md",
+            "bgColor": "red-300",
+            "id": "CardBlock-d38bc1ae-407a-441c-8df0-b533f0364754"
+          }
+        },
+        {
+          "type": "CardBlock",
+          "props": {
+            "title": "Title",
+            "description": "This is a description...",
+            "padding": 12,
+            "variant": "shadow-md",
+            "bgColor": "red-300",
+            "id": "CardBlock-7b894b64-775b-49b4-879a-aed3eab3bd1a"
+          }
+        },
+        {
+          "type": "CardBlock",
+          "props": {
+            "title": "Title",
+            "description": "This is a description...",
+            "padding": 16,
+            "variant": "shadow-md",
+            "bgColor": "yellow-100",
+            "id": "CardBlock-a81c53b2-a9b7-498b-9442-7a5cf8999b9e"
+          }
+        }
+      ],
+      "GridBlock-9bb53761-ee65-499f-9a40-b24b29dda11b:my-grid": [],
+      "GridBlock-a3521df2-2685-42d1-a1f4-975ea01c8d4d:my-grid": [
+        {
+          "type": "CardBlock",
+          "props": {
+            "title": "Title",
+            "description": "This is a description...",
+            "padding": 16,
+            "variant": "border rounded-md",
+            "bgColor": "yellow-100",
+            "id": "CardBlock-2ae61da2-4415-4db2-a154-7b739028d5ba"
+          }
+        }
+      ]
+    }
+  },
+  "/page-1763548991311": {
+    "root": {
+      "props": {
+        "title": "Test Page"
+      }
+    },
+    "content": [
+      {
+        "type": "CustomHtmlBlock",
+        "props": {
+          "id": "CustomHtmlBlock-1763548991311",
+          "html": "<h1>Test</h1>",
+          "css": "",
+          "js": ""
+        }
+      }
+    ],
+    "zones": {}
+  },
+  "/page-1763549000100": {
+    "root": {
+      "props": {
+        "title": "Test Page"
+      }
+    },
+    "content": [
+      {
+        "type": "CustomHtmlBlock",
+        "props": {
+          "id": "CustomHtmlBlock-1763549000100",
+          "html": "<h1>Test</h1>",
+          "css": "",
+          "js": ""
+        }
+      }
+    ],
+    "zones": {}
+  },
+  "/page-1763549019859": {
+    "root": {
+      "props": {
+        "title": "Test Page"
+      }
+    },
+    "content": [
+      {
+        "type": "CustomHtmlBlock",
+        "props": {
+          "id": "CustomHtmlBlock-1763549019859",
+          "html": "<h1>Test</h1>",
+          "css": "",
+          "js": ""
+        }
+      }
+    ],
+    "zones": {}
+  },
+  "/page-1763550333026": {
+    "root": {
+      "props": {
+        "title": "Test Page"
+      }
+    },
+    "content": [
+      {
+        "type": "CustomHtmlBlock",
+        "props": {
+          "id": "CustomHtmlBlock-1763550333057",
+          "html": "<h1>Test</h1>",
+          "css": "",
+          "js": ""
+        }
+      }
+    ],
+    "zones": {}
+  }
+}

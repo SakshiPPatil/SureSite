@@ -1,0 +1,33 @@
+{
+  "name": "suresite-backend-nodejs",
+  "version": "1.0.0",
+  "description": "SureSite Backend - Node.js Implementation",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "website",
+    "builder",
+    "nodejs",
+    "express"
+  ],
+  "author": "SureSite Team",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "openai": "^4.20.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
