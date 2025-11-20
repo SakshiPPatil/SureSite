@@ -37,6 +37,7 @@ backend-nodejs/.env
 # Documentation/Run files with secrets
 Run.txt
 start.ps1
+start.bat
 manual-start.ps1
 
 # IDEs
